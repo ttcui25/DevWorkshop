@@ -1,3 +1,8 @@
+1. Both companies document their guidlines in a clearly visible spot so all developers know what the code is meant to do easily. Additionally, both companies say that smaller is better. It is much better to review small pieces of code at a time rather than a big chunk at once. Something microsoft does that is unique is add emojis into the code. A 'thumbs up' emoji could mean that a part of the code is great. Moreover,  a 'X' emoji would mean that this has to change. Another difference is that yelp emphasizes not making major changes during a review. Reviews should give feedback and make changes that can be done in 24 hours.
+
+2. https://codereview.stackexchange.com/questions/1973/remove-last-comma I found this code review very helpful because it was concise, correct and effective. The reviewer was very respectful and helpful when aiding the person requesting the code review. There were numerous reviewers and numerous solutions provided, which is very helpful.
+
+
 3. https://codereview.stackexchange.com/questions/287939/hackerrank-project-euler-12-python-highly-divisible-triangular-numbers
 
 This code review, while thorough, is way too long and detailed. It would be better to shorten it so it's more concise and to the point. If something is confusing, the reviewee can reach out for elaboration, but otherwise the details are unecessary.
