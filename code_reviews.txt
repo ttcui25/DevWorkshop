@@ -1,0 +1,3 @@
+3. https://codereview.stackexchange.com/questions/287939/hackerrank-project-euler-12-python-highly-divisible-triangular-numbers
+
+This code review, while thorough, is way too long and detailed. It would be better to shorten it so it's more concise and to the point. If something is confusing, the reviewee can reach out for elaboration, but otherwise the details are unecessary.
